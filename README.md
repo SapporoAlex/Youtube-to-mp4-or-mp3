@@ -13,7 +13,6 @@ Requirements
 - Clone the repository:
 
 ```bash
-Copy code
 git clone https://github.com/yourusername/youtube-downloader.git
 cd youtube-downloader
 ```
