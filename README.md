@@ -42,9 +42,9 @@ python youtube_downloader.py
 
 Enter the YouTube video URL.
 Choose the download format:
-1 for Mp4 video
-2 for Mp3 audio
-3 to exit
+- 1 for Mp4 video
+- 2 for Mp3 audio
+- 3 to exit
 
 ### Example session:
 ```python
