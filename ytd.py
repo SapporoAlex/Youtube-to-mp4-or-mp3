@@ -3,7 +3,7 @@ from sys import argv
 import os
 import random as rd
 
-PATH = "C:/Users/ISK3F/Desktop"
+PATH = "C:/Users/..." # Your path
 run = True
 symbol_list = ["☆", "❀", "✠", "✡", "✌", "☯", "☮"]
 
