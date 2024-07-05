@@ -30,7 +30,7 @@ pip install pytube
 Ensure the PATH variable in the script points to your desired download location:
 
 ```python
-PATH = "C:/Users/ISK3F/Desktop"
+PATH = "C:/Users/..."
 ```
 
 ### Usage
