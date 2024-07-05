@@ -16,35 +16,38 @@ Requirements
 git clone https://github.com/yourusername/youtube-downloader.git
 cd youtube-downloader
 ```
-Install the required packages:
 
-sh
-Copy code
+## Install the required packages:
+
+```bash
 pip install pytube
-Set the download path in the script:
+```
+
+### Set the download path in the script:
 
 Ensure the PATH variable in the script points to your desired download location:
 
-python
-Copy code
+```python
 PATH = "C:/Users/ISK3F/Desktop"
-Usage
+```
+
+### Usage
 Run the script:
 
-sh
-Copy code
+```bash
 python youtube_downloader.py
-Follow the prompts:
+```
+
+### Follow the prompts:
 
 Enter the YouTube video URL.
 Choose the download format:
 1 for Mp4 video
 2 for Mp3 audio
 3 to exit
-Example session:
 
-less
-Copy code
+### Example session:
+```python
 Copy YouTube video URL here: https://www.youtube.com/watch?v=example
 ╔══════════════════════════╗
 ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
@@ -55,11 +58,13 @@ Copy YouTube video URL here: https://www.youtube.com/watch?v=example
 ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
 ╚══════════════════════════╝
 >>>
-License
+
+```
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with any improvements.
 
-Acknowledgments
+## Acknowledgments
 Pytube - Python library for downloading YouTube videos
