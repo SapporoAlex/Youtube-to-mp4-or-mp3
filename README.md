@@ -1,6 +1,8 @@
 # YouTube to Mp4/Mp3 Downloader
 This Python script allows users to download YouTube videos as either Mp4 or Mp3 files. The script prompts the user for a YouTube video URL and offers a simple interface for choosing the download format.
 
+<img src="preview.png" width="200vw" height="auto">
+
 ## Features
 Download YouTube videos in high-resolution Mp4 format.
 Download audio-only Mp3 versions of YouTube videos.
